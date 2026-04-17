@@ -1,0 +1,25 @@
+{
+  "generated_at": 1776406973855,
+  "source_id": "lichess:ranking-de-xadrez-online-capixaba",
+  "count": 1,
+  "players": [
+    {
+      "username": "gedevon_arrudev",
+      "name": "Gedeon Arruda",
+      "profile": "https://lichess.org/@/gedevon_arrudev",
+      "blitz": 1980,
+      "bullet": 2067,
+      "rapid": 1500,
+      "seenAt": 1776406139186,
+      "blitz_diff": 0,
+      "bullet_diff": 0,
+      "rapid_diff": 0,
+      "position": 1,
+      "position_change": null,
+      "position_arrow": null,
+      "blitz_status": "manteve",
+      "bullet_status": "manteve",
+      "rapid_status": "manteve"
+    }
+  ]
+}
