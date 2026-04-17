@@ -1,5 +1,5 @@
 {
-  "generated_at": 1776406973855,
+  "generated_at": 1776407480041,
   "source_id": "lichess:ranking-de-xadrez-online-capixaba",
   "count": 1,
   "players": [
@@ -15,8 +15,8 @@
       "bullet_diff": 0,
       "rapid_diff": 0,
       "position": 1,
-      "position_change": null,
-      "position_arrow": null,
+      "position_change": 0,
+      "position_arrow": "→",
       "blitz_status": "manteve",
       "bullet_status": "manteve",
       "rapid_status": "manteve"
