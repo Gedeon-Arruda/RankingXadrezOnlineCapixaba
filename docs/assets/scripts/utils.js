@@ -8,7 +8,7 @@ const TITLE_OVERRIDES = Object.freeze({
 const HONOR_BADGE_OVERRIDES = Object.freeze({
   // Adicione novos campeoes estaduais manualmente aqui.
   normanfrieman: Object.freeze({
-    label: "CE",
+    label: "Campeão ES",
     tooltip: "Campeão estadual"
   })
 });
