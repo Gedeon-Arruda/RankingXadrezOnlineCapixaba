@@ -1,4 +1,4 @@
-﻿import { DEFAULTS, RHYTHMS } from "./config.js";
+import { DEFAULTS, RHYTHMS } from "./config.js";
 
 const TITLE_OVERRIDES = Object.freeze({
   gedevonarrudev: "DEV",
