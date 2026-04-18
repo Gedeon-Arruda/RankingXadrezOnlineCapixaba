@@ -1,5 +1,5 @@
 {
-  "generated_at": 1776519270968,
+  "generated_at": 1776520209040,
   "source_id": "lichess:ranking-de-xadrez-online-capixaba",
   "count": 13,
   "players": [
@@ -339,7 +339,7 @@
       "blitz_peak": 1652,
       "bullet_peak": 1130,
       "rapid_peak": 1597,
-      "seenAt": 1776512328764,
+      "seenAt": 1776519946773,
       "country_name": null,
       "blitz_country_rank": null,
       "bullet_country_rank": null,
